@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": null,
+  "strategy": {
+    "name": "DUAL_BALANCED_V2_PRACTICAL",
+    "lock_version": "V1.3_LOCKED",
+    "data_date": null,
+    "execution_date": null
+  },
+  "status": {
+    "code": "WAITING_FOR_FIRST_PUBLISH",
+    "message": "Run the private strategy GitHub Action once to publish live app data."
+  },
+  "allocation": null,
+  "parents": null,
+  "market": null,
+  "history": null,
+  "privacy": {
+    "public_safe": true,
+    "account_data_included": false,
+    "orders_included": false
+  }
+}
